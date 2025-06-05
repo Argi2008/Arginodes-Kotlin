@@ -1,0 +1,6 @@
+name: Argi-Kotlin
+version: 1.0.0
+main: com.argi.plugin.ArgiKotlinPlugin
+api-version: "1.17"
+description: Plugin Kotlin para Minecraft 1.17
+author: Argi2008
